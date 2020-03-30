@@ -1,0 +1,33 @@
+p{
+color: lightskyblue
+}
+html {
+    font-size:30px;
+    font-style: normal;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    color: darkgrey;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+p {
+    font-size: 40px;
+    font-style: oblique
+}
+html {
+    background-color: 9FFEE1;
+}
+body {
+    width: fit-content;
+    margin: auto;
+    background-color: black;
+    padding: 0 20px 20px 20px;
+    border-radius: 30px white;
+}
